@@ -1,0 +1,4 @@
+db:
+  driver: mysql
+  user: gyan
+  password: secret1
